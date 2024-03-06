@@ -1,2 +1,2 @@
-# pororo-tts.github.io
-PORORO TTS Demo Page
+# Parallel-TTS.github.io
+Parallel-TTS Demo Page
